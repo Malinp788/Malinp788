@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Malinp788/Malinp788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Malinp788/Malinp788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔥 My name is Monika | Web3 Fanatic & Validation Maniac
 - I live and breathe running nodes, validating networks, and building the infrastructure of the future.
