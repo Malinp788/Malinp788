@@ -20,4 +20,4 @@
 
 - ⚡ My Philosophy:
 - Blockchain isn't just technology. It's a religion. "If a blockchain isn't decentralized, it's just a database. I make sure nodes are for everyone!"
---!>
+---
