@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🔥 My name is Monika | Web3 Fanatic & Validation Maniac
+# 🔥 My name is Monika | Web3 Fanatic & Validator Maniac😝
 - I live and breathe running nodes, validating networks, and building the infrastructure of the future.
 # 💪 My Expertise:
 - 🤑 Validation Maniac: Running nodes in Cosmos SDK, EVM, Polkadot, and other blockchain “beasts”👻 ⚡Testnet/mainnet participation early node runner for 50+
@@ -12,7 +12,7 @@
 - Hetzner ➡️ https://hetzner.com/
 - OVH ➡️ https://ca.ovh.com/,
 - Gthost ➡️ https://gthost.com/
-#- ⚡ My Philosophy:
+# ⚡ My Philosophy:
 - Blockchain isn't just technology. It's a religion. "If a blockchain isn't decentralized, it's just a database. I make sure nodes are for everyone!"
 
 ---
