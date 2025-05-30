@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Malinp788/Malinp788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔥 My name is Monika | Web3 Fanatic & Validation Maniac
@@ -20,4 +19,5 @@
 
 - ⚡ My Philosophy:
 - Blockchain isn't just technology. It's a religion. "If a blockchain isn't decentralized, it's just a database. I make sure nodes are for everyone!"
+
 ---
