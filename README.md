@@ -2,9 +2,10 @@
 
 # 🔥 My name is Monika | Web3 Fanatic & Validator Maniac😝
 - Yes, I'm a girl... Yes, I run nodes and validate networks. Get used to it - even the most serious blockchains need a feminine approach: beautiful, functional and tasteful! 💋💖
+- Graduate of Validator School POSTHUMAN 👩‍🎓
 
 # 💪 My Expertise:
-- 🤑 Validation Maniac: Running nodes in Cosmos SDK, EVM, Polkadot, and other blockchain “beasts”👻 ⚡Testnet/mainnet participation early node runner for 50+
+- 🤑 Validation: Running nodes in Cosmos SDK, EVM, Polkadot, and other blockchain “beasts”👻 ⚡Testnet/mainnet participation early node runner for 50+
 - 👌 Providing secure validation, ~100% uptime and reliability.
 - 🧚‍♀️ The RPC/API Sorceress: provide RPC/API solutions for decentralized applications (dApps) mainnets and testnets in 20+ chains.
 -   (Ethereum, NEAR, Arbitrum, Cosmos Hub, Celestia etc.)
