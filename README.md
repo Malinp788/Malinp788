@@ -1,6 +1,6 @@
 ## Hi there 👋  I am
 ### 🔥 Beauty Validator | Monika
-✨ I run nodes and validate networks. Even the most serious blockchains need a feminine touch — beautiful, functional, and tasteful! 💋💖  
+✨ I run nodes and validate networks. Even the most serious blockchains need a feminine touch — beautiful, functional, and tasteful!💖  
 🎓 Graduate of **Validator School POSTHUMAN**
 ### 💪 My Expertise:
 - 🤑 Validation: Running nodes in Cosmos SDK, EVM, Polkadot, and other blockchain “beasts”👻 ⚡Testnet/mainnet participation early node runner for 50+
