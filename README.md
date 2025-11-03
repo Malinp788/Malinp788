@@ -1,5 +1,5 @@
 ## Hi there 👋
-### 🔥 Beauty Validator | Monika 😝
+### 🔥 Beauty Validator | Monika
 ✨ I run nodes and validate networks. Even the most serious blockchains need a feminine touch — beautiful, functional, and tasteful! 💋💖  
 🎓 Graduate of **Validator School POSTHUMAN**
 ### 💪 My Expertise:
